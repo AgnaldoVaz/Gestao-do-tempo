@@ -1,2 +1,1 @@
-# Gestao-do-tempo
-Atinja seus objetivos gerenciando seu tempo.
+# Gestao do Tempo
